@@ -1,4 +1,4 @@
-## Project Title: GAN for Privacy-Preserving Data Generation
+## Project Title: DP-GAN for Privacy-Preserving Data Generation
 
 ### Introduction:
 This project aims to implement a Differentially Private Generative Adversarial Network (DP-GAN) for privacy-preserving data generation. The GAN architecture is trained on a dataset containing information about diabetes patients, with the goal of generating synthetic data that closely resembles the original data while preserving the privacy of the individuals.
